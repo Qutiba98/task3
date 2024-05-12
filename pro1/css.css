@@ -1,0 +1,184 @@
+body{
+background-color: white;
+text-transform: capitalize;
+
+}
+span{
+
+    text-shadow: 2px 2px 15px rgba(0, 0, 0, 0.5)      
+
+}
+
+
+.h4{
+padding-left: 200px;
+font-size: 80px;
+color: white;
+background-color: rgb(13, 202, 202);
+
+}
+
+
+.c1{
+
+background-color: rgb(13, 202, 202);
+margin-bottom: 10px;
+margin-right: 110px;
+padding-left: 150px;
+padding-top: 70px;
+color: white;
+width: 80%;
+height: 80%;
+float:inline-end;
+position: absolute ;
+
+}
+.c2{
+
+margin-bottom: 50px;
+width: 50%;
+height: 60%;
+background-color: white;
+float:inline-end;
+position: absolute ;
+margin-top: 50px;
+margin-left: 850px;
+box-shadow: 10px 5px 10px rgba(0, 0, 0, 0.5);
+
+
+
+.img{
+width: 350px;
+height: 250px;
+position: absolute;
+float:inline-end;
+  box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.5);
+margin-top: 50px;
+margin-left: 70px;
+
+}
+
+.text1{
+    color: rgb(7, 90, 90);
+
+    margin-top: 350px;
+    margin-left: 60px;
+    float:inline-end;
+    position: absolute;
+
+.h1{
+
+    font-size: 60px;
+    text-align: center;
+
+}
+    .a1{
+        font-size: 30px;
+        color: rgb(7, 90, 90);
+
+    }
+}
+}
+
+
+.c3{
+
+    margin-bottom: 50px;
+    width: 16%;
+    height: 49%;
+    background-color: rgb(255, 255, 255);
+    float:inline-end;
+    position: absolute ;
+    margin-left: 1332px;
+    margin-top: 50px;
+
+
+    .img{
+        width: 350px;
+        height: 250px;
+        position: absolute;
+        float:inline-end;
+        margin-top: 50px;
+        margin-left: 20px;
+                
+}
+
+.text1{
+
+    color: rgb(7, 90, 90);
+    margin-top: 350px;
+    margin-left: 60px;
+    float:inline-end;
+    position: absolute;
+
+    .h1{
+
+        font-size: 60px;
+        text-align: center;
+        color: rgb(7, 90, 90);
+
+    }
+        .a1{
+            font-size: 30px;
+            color: rgb(7, 90, 90);
+        }
+    }
+    
+
+}
+
+
+.c4{
+    margin-top: 50px;
+
+    margin-bottom: 50px;
+    width: 16%;
+    height: 49%;
+    background-color: rgb(255, 255, 255);
+    float:inline-end;
+    position: absolute ;
+    margin-left: 1800px;
+    
+
+    .img{
+        width: 350px;
+        height: 250px;
+        position: absolute;
+        float:inline-end;
+        margin-top: 50px;
+        margin-left: 20px;
+                
+}
+
+.text1{
+
+    color: rgb(7, 90, 90);
+    margin-top: 350px;
+    margin-left: 60px;
+    float:inline-end;
+    position: absolute;
+
+    .h1{
+
+        font-size: 60px;
+        text-align: center;
+        color: rgb(7, 90, 90);
+
+    }
+
+
+    
+        .a1{
+            font-size: 30px;
+            color: rgb(7, 90, 90);
+        }
+    }
+    
+
+}
+
+
+
+
+
+

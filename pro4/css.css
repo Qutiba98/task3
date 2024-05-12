@@ -1,0 +1,206 @@
+body{
+
+background-color: white;
+
+
+
+}
+
+
+
+pre{
+    font-size: 25px;
+}
+
+
+
+.body{
+
+background-color: rgb(255, 255, 255);
+height: 65%;
+width: 47%;
+margin: 7%;
+padding: 9%;
+float: none;
+position: absolute;
+box-shadow: 5px 5px 20px 0 rgba(0, 0, 0, 0.9);
+
+
+
+}
+
+.row1{
+    background-color: rgb(209, 206, 206);
+    margin-left: 230px;
+margin-top: 350px;
+float: none;
+position: absolute;
+width: 10%;
+height: 60%;
+
+
+}
+
+.col1{
+    background-color: rgb(209, 206, 206);
+    margin-left: 230px;
+    margin-top: 290px;
+    float: none;
+    position: absolute;
+    width: 10%;
+    height: 4%;
+    
+    }
+
+
+.row2{
+    background-color: rgb(209, 206, 206);
+    margin-left: 520px;
+margin-top: 350px;
+float: none;
+position: absolute;
+width: 10%;
+height: 60%;
+}
+
+.col2{
+    background-color: rgb(209, 209, 206);
+    margin-left: 520px;
+    margin-top: 290px;
+    float: none;
+    position: absolute;
+    width: 10%;
+    height: 4%;
+}
+.row3{
+    background-color: rgb(243, 188, 7);
+    margin-left: 810px;
+    margin-top: 350px;
+    float: none;
+    position: absolute;
+    width: 10%;
+    height: 60%;
+    }
+    .col3{
+        background-color: rgb(243, 188, 7);
+        margin-left: 810px;
+        margin-top: 290px;
+        float: none;
+        position: absolute;
+        width: 10%;
+        height: 4%;
+    }
+
+    .row4{
+        background-color: rgb(209, 206, 206);
+        margin-left: 1099px;
+        margin-top: 350px;
+        float: none;
+        position: absolute;
+        width: 10%;
+        height: 60%;
+        }
+        .col4{
+            background-color: rgb(209, 206, 206);
+            margin-left: 1099px;
+            margin-top: 290px;
+            float: none;
+            position: absolute;
+            width: 10%;
+            height: 4%;
+        }
+
+        .row5{
+            background-color: rgb(209, 206, 206);
+            margin-left: 1390px;
+            margin-top: 350px;
+            float: none;
+            position: absolute;
+            width: 10%;
+            height: 60%;
+            }
+            .col5{
+                background-color: rgb(209, 206, 206);
+                margin-left: 1390px;
+                margin-top: 290px;
+                float: none;
+                position: absolute;
+                width: 10%;
+                height: 4%;
+            }
+
+            .row5{
+                background-color: rgb(209, 206, 206);
+                margin-left: 1390px;
+                margin-top: 350px;
+                float: none;
+                position: absolute;
+                width: 10%;
+                height: 60%;
+                }
+
+
+                .col6{
+                    background-color: rgb(209, 206, 206);
+                    margin-left: 1680px;
+                    margin-top: 290px;
+                    float: none;
+                    position: absolute;
+                    width: 10%;
+                    height: 4%;
+                }
+
+                .row6{
+                    background-color: rgb(209, 206, 206);
+                    margin-left: 1680px;
+                    margin-top: 350px;
+                    float: none;
+                    position: absolute;
+                    width: 10%;
+                    height: 60%;
+                    }
+
+
+  .t1{
+    background-color: rgb(209, 206, 206);
+    margin-left: 230px;
+    margin-top: 1200px;
+    float: none;
+    position: absolute;
+    width: 860px;
+    height: 3%;
+  }
+
+ .t2{
+
+    background-color: rgb(209, 206, 206);
+    margin-left: 230px;
+    margin-top: 1250px;
+    float: none;
+    position: absolute;
+    width: 860px;
+    height: 20%;
+
+ }
+.t3{
+
+    background-color: rgb(209, 206, 206);
+    margin-left: 1100px;
+    margin-top: 1200px;
+    float: none;
+    position: absolute;
+    width: 860px;
+    height: 3%;
+
+}
+.t4{
+
+    background-color: rgb(209, 206, 206);
+    margin-left: 1100px;
+    margin-top: 1250px;
+    float: none;
+    position: absolute;
+    width: 860px;
+    height: 20%;
+
+}

@@ -1,0 +1,140 @@
+
+
+body{
+
+
+
+}
+
+nav{
+
+    margin-bottom: 100px;
+    position: absolute;
+    float: none;
+    
+    
+      }
+    
+     .ul1 a{
+    display: inline-block;
+    text-decoration: none;
+    list-style-type: none;
+    color: gray;
+    margin: 0 ;
+    padding: 0;
+    font-size: 5px;
+    margin-bottom: 600px;
+    
+    
+     }
+     .ul1 li{
+        display: inline-block;
+        color: aqua;
+        padding: 1px;
+        margin: 0;
+        padding: 0;
+    
+         }
+    
+         .ul1 a {
+            list-style-type: none;
+            margin: 0;
+            padding: 0;
+            
+          }
+        
+.google{
+
+
+margin-left: 130px;
+margin-top: 60px;
+padding-right: 500px;
+padding: 10px;
+width: 100px;
+height: 50px;
+background-color: rgb(255, 255, 255);
+
+}
+
+body{
+
+    background-color: white;
+}
+
+.g{
+    color: rgb(12, 124, 228);
+}
+.oe{
+
+color: red;
+
+}
+
+.o{
+
+color: rgb(255, 184, 4);
+
+}
+.l{
+
+
+color: green;
+
+}
+
+
+
+
+
+.top2{
+    font-size: 5px;
+    color: gray;
+    position: absolute;
+    float: none;
+    margin-left: 250px;
+    width: 35px;
+    height: 10px;
+    
+    
+    }
+
+
+
+    .google-search {
+        text-align: center;
+    
+      }
+      
+      .google-search input[type="text"] {
+        padding: 10px;
+        border: 1px solid #ccc;
+        border-radius: 24px;
+        width: 400px; /* تعديل العرض حسب الحاجة */
+        outline: none;
+        position: absolute;
+        float: none;
+
+margin-top: 100px;
+margin-right: 400px;
+float: right;
+
+      }
+      
+      .google-search button[type="submit"] {
+        padding: 10px 20px;
+        background-color: #4285F4;
+        color: white;
+        border: none;
+        border-radius: 24px;
+        cursor: pointer;
+        outline: none;
+
+      }
+      
+      .google-search input[type="text"]:focus {
+        border-color: #4285F4; /* تغيير لون الحدود عند التركيز */
+      }
+      
+      .google-search button[type="submit"]:hover {
+        background-color: #357AE8; /* تغيير لون الخلفية عند تحويل المؤشر */
+      }
