@@ -1,66 +1,27 @@
 
 
-body{
 
 
+.li1{
+
+    float: left;
+margin-left: 20px;
+font-size: 20px;
+list-style-type: none;
 
 }
-
-nav{
-
-    margin-bottom: 100px;
-    position: absolute;
-    float: none;
-    
-    
-      }
-    
-     .ul1 a{
-    display: inline-block;
+a{
     text-decoration: none;
-    list-style-type: none;
     color: gray;
-    margin: 0 ;
-    padding: 0;
-    font-size: 5px;
-    margin-bottom: 600px;
-    
-    
-     }
-     .ul1 li{
-        display: inline-block;
-        color: aqua;
-        padding: 1px;
-        margin: 0;
-        padding: 0;
-    
-         }
-    
-         .ul1 a {
-            list-style-type: none;
-            margin: 0;
-            padding: 0;
-            
-          }
-        
-.google{
-
-
-margin-left: 130px;
-margin-top: 60px;
-padding-right: 500px;
-padding: 10px;
-width: 100px;
-height: 50px;
-background-color: rgb(255, 255, 255);
 
 }
 
-body{
-
-    background-color: white;
+.li2{
+    float: right;
+    margin-right: 20px;
+    font-size: 20px;
+    list-style-type: none;
 }
-
 .g{
     color: rgb(12, 124, 228);
 }
@@ -81,60 +42,64 @@ color: rgb(255, 184, 4);
 color: green;
 
 }
+.google{
 
+position: absolute;    
+    width: 70%px;
+    height: 50%px;
+    background-color: rgb(255, 255, 255);
+    font-size: 150px;
+margin-left: 34%;
+margin-top: 10%;
+}
 
-
-
-
-.top2{
-    font-size: 5px;
-    color: gray;
+.serach{
     position: absolute;
-    float: none;
-    margin-left: 250px;
-    width: 35px;
-    height: 10px;
-    
-    
-    }
+margin-left: 35%;
+margin-top: 21%;
+}
 
+.serach1{
 
+    border: 1;
+    width: 400px;
+    height: 40px;
+}
 
-    .google-search {
-        text-align: center;
-    
-      }
-      
-      .google-search input[type="text"] {
-        padding: 10px;
-        border: 1px solid #ccc;
-        border-radius: 24px;
-        width: 400px; /* تعديل العرض حسب الحاجة */
-        outline: none;
-        position: absolute;
-        float: none;
+.button1{
 
-margin-top: 100px;
-margin-right: 400px;
-float: right;
+    position: absolute;
+margin-left: 25%;
+margin-top: 27%;
+width: 200px;
+height: 40px;
+}
+.button2{
+    position: absolute;
+    margin-left: 37%;
+    margin-top: 27%;
+    width: 200px;
+    height: 40px;
+}
+.li3{
 
-      }
-      
-      .google-search button[type="submit"] {
-        padding: 10px 20px;
-        background-color: #4285F4;
-        color: white;
-        border: none;
-        border-radius: 24px;
-        cursor: pointer;
-        outline: none;
+    float: left;
+    margin-top: 42em;
+    margin-right: 48px;
+font-size: 20px;
+list-style-type: none;
 
-      }
-      
-      .google-search input[type="text"]:focus {
-        border-color: #4285F4; /* تغيير لون الحدود عند التركيز */
-      }
-      
-      .google-search button[type="submit"]:hover {
-        background-color: #357AE8; /* تغيير لون الخلفية عند تحويل المؤشر */
-      }
+}
+a{
+    text-decoration: none;
+    color: gray;
+
+}
+
+.li4{
+    float: right;
+    margin-top: 42em;
+    margin-right: 50px;
+    font-size: 20px;
+    list-style-type: none;
+}
